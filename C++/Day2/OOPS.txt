@@ -1,0 +1,9 @@
+OOPS:
+	Class			-template or blueprint of object
+	Object			-real time Entity
+	Inheritance 	-reuse or link different class
+	Polymorphism	-reuse or one name many form
+	Abstraction		-dummy class 
+	Encapsulation	-Object access members
+
+	

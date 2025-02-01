@@ -1,0 +1,40 @@
+c++
+
+[C] program with [C]lass
+
+
+		C 										C++
+top to bottom approach		  		Bottom to top approach	
+format specifier must				format specifier not necessary
+
+struct	sample{							class Sample{
+											public:
+int a;											int a;
+												Sample();
+											private:
+char b;											char b;
+
+											protected:
+float c;										float c;
+
+										
+};										};
+
+Memory creation of Structure		Memory creation of Class by Constructor 
+by Declaration						Sample s=new Sample();
+struct sample s1;
+									Remove memory allocation by Destructor
+									//delete s;
+									~Sample();
+
+
+
+
+
+
+
+
+
+
+
+
